@@ -1,3 +1,4 @@
 # Global AI Readiness & Growth Dashboard: análisis de preparación, inversión, talento y gobernanza de IA en 227 países
 
-Built an end-to-end Global AI Readiness Analytics project using Python and Power BI. The project analyzes 259K+ AI-related indicators across 227 countries to benchmark national AI readiness, investment, talent, innovation, and governance. Includes a custom AI Readiness Score, Latin America benchmark, and Peru deep dive.
+This project analyzes global AI readiness indicators using Python and Power BI.  
+The objective is to compare countries, benchmark Latin America, and evaluate Peru's position in terms of AI talent, infrastructure, innovation, governance and economic readiness.
