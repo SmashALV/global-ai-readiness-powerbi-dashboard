@@ -1,0 +1,15 @@
+Metric,Pillar,Weight,Direction
+AI Index: Overall Score,General,1.00,Higher is better
+AI Index: Talent Score,Talent,0.20,Higher is better
+AI Index: Infrastructure Score,Infrastructure,0.20,Higher is better
+AI Index: Research Score,Innovation,0.20,Higher is better
+AI Index: Commercial Score,Economy,0.20,Higher is better
+AI Index: Government Strategy Score,Governance,0.20,Higher is better
+AI Index: Operating Environment Score,Governance,0.20,Higher is better
+WB GovTech: Overall Maturity Index (GTMI),Governance,0.20,Higher is better
+WB GovTech: Government Technology Enablers Index (GTEI),Infrastructure,0.20,Higher is better
+Coursera: Data Science Proficiency Score,Talent,0.20,Higher is better
+Coursera: Technology Proficiency Score,Talent,0.20,Higher is better
+DIMENSION SCORES: Responsible AI Governance,Governance,0.20,Higher is better
+DIMENSION SCORES: Responsible AI Capacities,Governance,0.20,Higher is better
+Number Of AI Publications: All,Innovation,0.20,Higher is better

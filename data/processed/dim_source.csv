@@ -1,0 +1,164 @@
+SourceKey,Source,Dataset,Source_File,Source_Type,Source_Year
+1,Coursera - Global Skills Report,Coursera - Global & Job Skills Reports,coursera_panel_aggregator.py,csv,2026
+2,Epoch AI,Epoch AI - AI Chip Sales,epoch_chip_sales_ingestion.py,csv,2026
+3,Epoch AI,Epoch AI - Benchmarks,epoch_benchmark_aggregator.py,csv,2026
+4,Epoch AI,Epoch AI - Frontier Data Centers,epoch_infrastructure_aggregator.py,csv,2026
+5,Epoch AI,Epoch AI - AI Company Reports,epoch_ai_companies_aggregator.py,csv,2026
+6,Epoch AI,Epoch AI - ML Hardware,epoch_ml_hardware_aggregator.py,csv,2026
+7,Epoch AI,Epoch AI - GPU Clusters,epoch_gpu_clusters_aggregator.py,csv,2026
+8,Epoch AI,Epoch AI - AI Usage Polling,epoch_polling_aggregator.py,csv,2026
+9,Epoch AI,Epoch AI - AI Model Database,epoch_models_master_aggregator.py,csv,2026
+10,Global Index on Responsible AI,GIRAI 2024 Index,girai_ai_index_data_long.csv,csv,2024
+11,IEA's Energy and AI Observatory,IEA Energy and AI Observatory,https://iea.blob.core.windows.net/assets/601eaec9-ba91-4623-819b-4ded331ec9e8/EnergyandAI.pdf,csv,2025
+12,MacroPolo Global AI Talent Tracker,MacroPolo Global AI Talent Tracker,macropolo_scraper.py,csv,2024
+13,OECD.ai,OECD.ai,oecd_ai_index_data_long.csv,csv,2024
+14,Stanford AI Index,Stanford AI Index - Economy,4. Economy-2024_Data_fig_4.2.14.csv,csv,2024
+15,Stanford AI Index,Stanford AI Index - Economy,4. Economy-2024_Data_fig_4.2.16.csv,csv,2024
+16,Stanford AI Index,Stanford AI Index - Economy,4. Economy-2024_Data_fig_4.5.7.csv,csv,2024
+17,Stanford AI Index,Stanford AI Index - Research and Development,1. Research and Development-2024_Data_fig_1.3.18.csv,csv,2024
+18,Stanford AI Index,Stanford AI Index - Economy,4. Economy-2024_Data_fig_4.5.4.csv,csv,2024
+19,Stanford AI Index,Stanford AI Index - Research and Development,1. Research and Development-2024_Data_fig_1.3.2.csv,csv,2024
+20,Stanford AI Index,Stanford AI Index - Research and Development,1. Research and Development-2024_Data_fig_1.1.5.csv,csv,2024
+21,Stanford AI Index,Stanford AI Index - Education,6. Education-2024_Data_fig_6.1.25.csv,csv,2024
+22,Stanford AI Index,Stanford AI Index - Economy,4. Economy-2024_Data_fig_4.2.17.csv,csv,2024
+23,Stanford AI Index,Stanford AI Index - Policy and GoverGeneralce,7. Policy and Governance-2024_Data_fig_7.2.10.csv,csv,2024
+24,Stanford AI Index,Stanford AI Index - Education,6. Education-2025_Data_fig_7.2.1.csv,csv,2025
+25,Stanford AI Index,Stanford AI Index - Policy and GoverGeneralce,7. Policy and Governance-2025_Data_fig_6.2.8.csv,csv,2025
+26,Stanford AI Index,Stanford AI Index - Economy,4. Economy-2025_Data_fig_4.2.10.csv,csv,2025
+27,Stanford AI Index,Stanford AI Index - Economy,4. Economy-2024_Data_fig_4.5.9.csv,csv,2024
+28,Stanford AI Index,Stanford AI Index - Education,6. Education-2024_Data_fig_6.1.21.csv,csv,2024
+29,Stanford AI Index,Stanford AI Index - Education,6. Education-2024_Data_fig_6.1.17.csv,csv,2024
+30,Stanford AI Index,Stanford AI Index - Education,6. Education-2024_Data_fig_6.1.27.csv,csv,2024
+31,Stanford AI Index,Stanford AI Index - Economy,4. Economy-2024_Data_fig_4.2.19.csv,csv,2024
+32,Stanford AI Index,Stanford AI Index - Economy,4. Economy-2024_Data_fig_4.3.12.csv,csv,2024
+33,Stanford AI Index,Stanford AI Index - Economy,4. Economy-2024_Data_fig_4.3.13.csv,csv,2024
+34,Stanford AI Index,Stanford AI Index - Research and Development,1. Research and Development-2024_Data_fig_1.2.7.csv,csv,2024
+35,Stanford AI Index,Stanford AI Index - Economy,4. Economy-2024_Data_fig_4.2.15.csv,csv,2024
+36,Stanford AI Index,Stanford AI Index - Economy,4. Economy-2024_Data_fig_4.3.8.csv,csv,2024
+37,Stanford AI Index,Stanford AI Index - Economy,4. Economy-2024_Data_fig_4.3.9.csv,csv,2024
+38,Stanford AI Index,Stanford AI Index - Education,6. Education-2024_Data_fig_6.1.18.csv,csv,2024
+39,Stanford AI Index,Stanford AI Index - Education,6. Education-2024_Data_fig_6.1.20.csv,csv,2024
+40,Stanford AI Index,Stanford AI Index - Education,6. Education-2024_Data_fig_6.1.22.csv,csv,2024
+41,Stanford AI Index,Stanford AI Index - Education,6. Education-2024_Data_fig_6.1.24.csv,csv,2024
+42,Stanford AI Index,Stanford AI Index - Education,6. Education-2024_Data_fig_6.1.26.csv,csv,2024
+43,Stanford AI Index,Stanford AI Index - Education,6. Education-2024_Data_fig_6.1.28.csv,csv,2024
+44,Stanford AI Index,Stanford AI Index - Education,6. Education-2024_Data_fig_6.1.19.csv,csv,2024
+45,Stanford AI Index,Stanford AI Index - Education,6. Education-2024_Data_fig_6.1.23.csv,csv,2024
+46,Stanford AI Index,Stanford AI Index - Policy and GoverGeneralce,7. Policy and Governance-2025_Data_fig_6.2.1.csv,csv,2025
+47,Stanford AI Index,Stanford AI Index - Policy and GoverGeneralce,7. Policy and Governance-2025_Data_fig_6.2.17.csv,csv,2025
+48,Stanford AI Index,Stanford AI Index - Research and Development,1. Research and Development-2025_Data_fig_1.1.11.csv,csv,2025
+49,Stanford AI Index,Stanford AI Index - Policy and GoverGeneralce,7. Policy and Governance-2025_Data_fig_6.2.15.csv,csv,2025
+50,Stanford AI Index,Stanford AI Index - Economy,4. Economy-2025_Data_fig_4.3.12.csv,csv,2025
+51,Stanford AI Index,Stanford AI Index - Policy and GoverGeneralce,7. Policy and Governance-2025_Data_fig_6.2.3.csv,csv,2025
+52,Stanford AI Index,Stanford AI Index - Research and Development,1. Research and Development-2025_Data_fig_1.3.1.csv,csv,2025
+53,Stanford AI Index,Stanford AI Index - Research and Development,1. Research and Development-2025_Data_fig_1.2.5.csv,csv,2025
+54,Stanford AI Index,Stanford AI Index - Education,6. Education-2025_Data_fig_7.3.13.csv,csv,2025
+55,Stanford AI Index,Stanford AI Index - Economy,4. Economy-2025_Data_fig_4.3.8.csv,csv,2025
+56,Stanford AI Index,Stanford AI Index - Policy and GoverGeneralce,7. Policy and Governance-2025_Data_fig_6.3.3.csv,csv,2025
+57,Stanford AI Index,Stanford AI Index - Policy and GoverGeneralce,7. Policy and Governance-2025_Data_fig_6.3.5.csv,csv,2025
+58,Stanford AI Index,Stanford AI Index - Policy and GoverGeneralce,7. Policy and Governance-2025_Data_fig_6.3.2.csv,csv,2025
+59,Stanford AI Index,Stanford AI Index - Policy and GoverGeneralce,7. Policy and Governance-2025_Data_fig_6.3.1.csv,csv,2025
+60,Stanford AI Index,Stanford AI Index - Policy and GoverGeneralce,7. Policy and Governance-2025_Data_fig_6.3.4.csv,csv,2025
+61,Stanford AI Index,Stanford AI Index - Education,6. Education-2025_Data_fig_7.3.4.csv,csv,2025
+62,Stanford AI Index,Stanford AI Index - Education,6. Education-2025_Data_fig_7.3.5.csv,csv,2025
+63,Stanford AI Index,Stanford AI Index - Economy,4. Economy-2025_Data_fig_4.2.18.csv,csv,2025
+64,Stanford AI Index,Stanford AI Index - Economy,4. Economy-2025_Data_fig_4.5.7.csv,csv,2025
+65,Stanford AI Index,Stanford AI Index - Education,6. Education-2025_Data_fig_7.3.9.csv,csv,2025
+66,Stanford AI Index,Stanford AI Index - Economy,4. Economy-2025_Data_fig_4.5.4.csv,csv,2025
+67,Stanford AI Index,Stanford AI Index - Education,6. Education-2025_Data_fig_7.3.12.csv,csv,2025
+68,Stanford AI Index,Stanford AI Index - Education,6. Education-2025_Data_fig_7.3.10.csv,csv,2025
+69,Stanford AI Index,Stanford AI Index - Policy and GoverGeneralce,7. Policy and Governance-2025_Data_fig_6.2.16.csv,csv,2025
+70,Stanford AI Index,Stanford AI Index - Economy,4. Economy-2025_Data_fig_4.3.13.csv,csv,2025
+71,Stanford AI Index,Stanford AI Index - Research and Development,1. Research and Development-2024_Data_fig_1.2.6.csv,csv,2024
+72,Stanford AI Index,Stanford AI Index - Economy,4. Economy-2025_Data_fig_4.3.9.csv,csv,2025
+73,Stanford AI Index,Stanford AI Index - Public Opinion,8. Public Opinion-2025_Data_fig_8.1.3.csv,csv,2025
+74,Stanford AI Index,Stanford AI Index - Public Opinion,8. Public Opinion-2025_Data_fig_8.1.6.csv,csv,2025
+75,Stanford AI Index,Stanford AI Index - Public Opinion,8. Public Opinion-2025_Data_fig_8.1.5.csv,csv,2025
+76,Stanford AI Index,Stanford AI Index - Responsible AI,3. Responsible AI-2025_Data_fig_3.4.3.csv,csv,2025
+77,Stanford AI Index,Stanford AI Index - Economy,4. Economy-2025_Data_fig_4.2.17.csv,csv,2025
+78,Stanford AI Index,Stanford AI Index - Research and Development,1. Research and Development-2025_Data_fig_1.2.4.csv,csv,2025
+79,Stanford AI Index,Stanford AI Index - Economy,4. Economy-2025_Data_fig_4.2.22.csv,csv,2025
+80,Stanford AI Index,Stanford AI Index - Research and Development,1. Research and Development-2025_Data_fig_1.3.3.csv,csv,2025
+81,Stanford AI Index,Stanford AI Index - Responsible AI,3. Responsible AI-2025_Data_fig_3.4.5.csv,csv,2025
+82,Stanford AI Index,Stanford AI Index - Economy,4. Economy-2025_Data_fig_4.2.15.csv,csv,2025
+83,Stanford AI Index,Stanford AI Index - Economy,4. Economy-2025_Data_fig_4.2.16.csv,csv,2025
+84,Stanford AI Index,Stanford AI Index - Education,6. Education-2025_Data_fig_7.3.11.csv,csv,2025
+85,Stanford AI Index,Stanford AI Index - Public Opinion,8. Public Opinion-2024_Data_fig_9.1.4.csv,csv,2024
+86,Stanford AI Index,Stanford AI Index - Research and Development,1. Research and Development-2021_Publications_arXiv_Elsevier - 2021 AI Index Reprot.xlsx,xlsx,2021
+87,Stanford AI Index,Stanford AI Index - Diversity,9. Diversity-2021_LinkedIn_LinkedIn - 2021 AI Index Report (Diversity in AI).xlsx,xlsx,2021
+88,Stanford AI Index,Stanford AI Index - Research and Development,1. Research and Development-2021_Publications_arXiv_arXiv - 2021 AI Index Report.xlsx,xlsx,2021
+89,Stanford AI Index,Stanford AI Index - Economy,4. Economy-2025_Data_fig_4.2.19.csv,csv,2025
+90,Stanford AI Index,Stanford AI Index - Economy,4. Economy-2025_Data_fig_4.2.21.csv,csv,2025
+91,Stanford AI Index,Stanford AI Index - Economy,4. Economy-2024_Data_fig_4.2.18.csv,csv,2024
+92,Stanford AI Index,Stanford AI Index - Economy,4. Economy-2021_Investment_NetBase Quid - 2021 AI Index Report.xlsx,xlsx,2021
+93,Stanford AI Index,Stanford AI Index - Global AI Vibrancy Tool,11. Global AI Vibrancy Tool-2022_2022 AI Index Report Public Data - Global AI Vibrancy Tool.xlsx,xlsx,2022
+94,Stanford AI Index,Stanford AI Index - Economy,4. Economy-2025_Data_fig_4.2.1.csv,csv,2025
+95,Stanford AI Index,Stanford AI Index - Policy and GoverGeneralce,7. Policy and Governance-2023_Data_fig_6.2.2.csv,csv,2023
+96,Stanford AI Index,Stanford AI Index - Economy,4. Economy-2024_Data_fig_4.3.17.csv,csv,2024
+97,Stanford AI Index,Stanford AI Index - Research and Development,1. Research and Development-2023_Data_fig_1.2.13.csv,csv,2023
+98,Stanford AI Index,Stanford AI Index - Research and Development,1. Research and Development-2024_Data_fig_1.3.19.csv,csv,2024
+99,Stanford AI Index,Stanford AI Index - Economy,4. Economy-2024_Data_fig_4.3.11.csv,csv,2024
+100,Stanford AI Index,Stanford AI Index - Economy,4. Economy-2025_Data_fig_4.3.11.csv,csv,2025
+101,Stanford AI Index,Stanford AI Index - Economy,4. Economy-2021_Jobs_LinkedIn_LinekdIn - 2021 AI Index Report.xlsx,xlsx,2021
+102,Stanford AI Index,Stanford AI Index - Economy,4. Economy-2023_Data_fig_4.2.21.csv,csv,2023
+103,Stanford AI Index,Stanford AI Index - Economy,4. Economy-2025_Data_fig_4.2.2.csv,csv,2025
+104,Stanford AI Index,Stanford AI Index - Economy,4. Economy-2024_Data_fig_4.2.1.csv,csv,2024
+105,Stanford AI Index,Stanford AI Index - Economy,4. Economy-2025_Data_fig_4.3.10.csv,csv,2025
+106,Stanford AI Index,Stanford AI Index - Research and Development,1. Research and Development-2023_Data_fig_1.2.7.csv,csv,2023
+107,Stanford AI Index,Stanford AI Index - Research and Development,1. Research and Development-2023_Data_fig_1.2.4.csv,csv,2023
+108,Stanford AI Index,Stanford AI Index - Research and Development,1. Research and Development-2024_Data_fig_1.2.5.csv,csv,2024
+109,Stanford AI Index,Stanford AI Index - Research and Development,1. Research and Development-2024_Data_fig_1.2.3.csv,csv,2024
+110,Stanford AI Index,Stanford AI Index - Diversity,9. Diversity-2024_Data_fig_8.1.15.csv,csv,2024
+111,Stanford AI Index,Stanford AI Index - Diversity,9. Diversity-2024_Data_fig_8.1.17.csv,csv,2024
+112,Stanford AI Index,Stanford AI Index - Diversity,9. Diversity-2024_Data_fig_8.1.16.csv,csv,2024
+113,Stanford AI Index,Stanford AI Index - Research and Development,1. Research and Development-2023_Data_fig_1.4.2.csv,csv,2023
+114,Stanford AI Index,Stanford AI Index - Research and Development,1. Research and Development-2024_Data_fig_1.5.2.csv,csv,2024
+115,Stanford AI Index,Stanford AI Index - Research and Development,1. Research and Development-2023_Data_fig_1.4.3.csv,csv,2023
+116,Stanford AI Index,Stanford AI Index - Research and Development,1. Research and Development-2024_Data_fig_1.5.4.csv,csv,2024
+117,Stanford AI Index,Stanford AI Index - Economy,4. Economy-2024_Data_fig_4.5.5.csv,csv,2024
+118,Stanford AI Index,Stanford AI Index - Economy,4. Economy-2024_Data_fig_4.3.14.csv,csv,2024
+119,Stanford AI Index,Stanford AI Index - Economy,4. Economy-2025_Data_fig_4.3.14.csv,csv,2025
+120,Stanford AI Index,Stanford AI Index - Economy,4. Economy-2024_Data_fig_4.3.10.csv,csv,2024
+121,Stanford AI Index,Stanford AI Index - Public Opinion,8. Public Opinion-2024_Data_fig_9.1.3.csv,csv,2024
+122,Stanford AI Index,Stanford AI Index - Unknown,5. Science and Medicine-2025_Data_fig_5.4.20.csv,csv,2025
+123,Stanford AI Index,Stanford AI Index - Policy and GoverGeneralce,7. Policy and Governance-2024_Data_fig_7.2.4.csv,csv,2024
+124,Stanford AI Index,Stanford AI Index - Education,6. Education-2024_Data_fig_6.1.32.csv,csv,2024
+125,Stanford AI Index,Stanford AI Index - Responsible AI,3. Responsible AI-2024_Data_fig_3.5.8.csv,csv,2024
+126,Stanford AI Index,Stanford AI Index - Policy and GoverGeneralce,7. Policy and Governance-2024_Data_fig_7.2.3.csv,csv,2024
+127,Stanford AI Index,Stanford AI Index - Policy and GoverGeneralce,7. Policy and Governance-2024_Data_fig_7.2.14.csv,csv,2024
+128,Stanford AI Index,Stanford AI Index - Policy and GoverGeneralce,7. Policy and Governance-2024_Data_fig_7.2.13.csv,csv,2024
+129,Stanford AI Index,Stanford AI Index - Public Opinion,8. Public Opinion-2023_Data_fig_8.1.6.csv,csv,2023
+130,Stanford AI Index,Stanford AI Index - Economy,4. Economy-2025_Data_fig_4.5.5.csv,csv,2025
+131,Stanford AI Index,Stanford AI Index - Research and Development,1. Research and Development-2023_Data_fig_1.2.3.csv,csv,2023
+132,Stanford AI Index,Stanford AI Index - Economy,4. Economy-2023_Data_fig_4.4.12.csv,csv,2023
+133,Stanford AI Index,Stanford AI Index - Economy,4. Economy-2023_Data_fig_4.4.4.csv,csv,2023
+134,Stanford AI Index,Stanford AI Index - Research and Development,1. Research and Development-2023_Data_fig_1.2.6.csv,csv,2023
+135,Stanford AI Index,Stanford AI Index - Economy,4. Economy-2023_Data_fig_4.4.7.csv,csv,2023
+136,Stanford AI Index,Stanford AI Index - Economy,4. Economy-2023_Data_fig_4.1.11.csv,csv,2023
+137,Stanford AI Index,Stanford AI Index - Education,6. Education-2024_Data_fig_6.1.31.csv,csv,2024
+138,Stanford AI Index,Stanford AI Index - Economy,4. Economy-2023_Data_fig_4.2.11.csv,csv,2023
+139,Stanford AI Index,Stanford AI Index - Economy,4. Economy-2023_Data_fig_4.1.14.csv,csv,2023
+140,Stanford AI Index,Stanford AI Index - Policy and GoverGeneralce,7. Policy and Governance-2023_Data_fig_6.1.4.csv,csv,2023
+141,Stanford AI Index,Stanford AI Index - Economy,4. Economy-2023_Data_fig_4.1.13.csv,csv,2023
+142,Stanford AI Index,Stanford AI Index - Economy,4. Economy-2023_Data_fig_4.2.17.csv,csv,2023
+143,Stanford AI Index,Stanford AI Index - Economy,4. Economy-2023_Data_fig_4.2.16.csv,csv,2023
+144,Stanford AI Index,Stanford AI Index - Economy,4. Economy-2023_Data_fig_4.2.10.csv,csv,2023
+145,Stanford AI Index,Stanford AI Index - Research and Development,1. Research and Development-2023_Data_fig_1.2.5.csv,csv,2023
+146,Stanford AI Index,Stanford AI Index - Research and Development,1. Research and Development-2023_Data_fig_1.2.8.csv,csv,2023
+147,Stanford AI Index,Stanford AI Index - Public Opinion,8. Public Opinion-2023_Data_fig_8.1.3.csv,csv,2023
+148,Stanford AI Index,Stanford AI Index - Policy and GoverGeneralce,7. Policy and Governance-2023_Data_fig_6.1.14.csv,csv,2023
+149,Stanford AI Index,Stanford AI Index - Economy,10. Economy and Education-2022_2022 AI Index Report Public Data - LinkedIn.xlsx,xlsx,2022
+150,Stanford AI Index,Stanford AI Index - Policy and GoverGeneralce,7. Policy and Governance-2023_Data_fig_6.1.13.csv,csv,2023
+151,Stanford AI Index,Stanford AI Index - Policy and GoverGeneralce,7. Policy and Governance-2023_Data_fig_6.1.1.csv,csv,2023
+152,Stanford AI Index,Stanford AI Index - Policy and GoverGeneralce,7. Policy and Governance-2023_Data_fig_6.1.3.csv,csv,2023
+153,Tortoise Media - The Global AI Index,Tortoise Media - Global AI Index,tortoise_vertical_parser.py,csv,2024
+154,UNESCO Global AI Ethics and Governance Observatory,UNESCO RAM,https://unesdoc.unesco.org/ark:/48223/pf0000395170/PDF/395170fre.pdf.multi,csv,2025
+155,UNESCO Global AI Ethics and Governance Observatory,UNESCO RAM,https://www.unesco.org/en/ethics-ai/observatory,csv,2025
+156,UNESCO Global AI Ethics and Governance Observatory,UNESCO RAM,https://www.unesco.org/en/ethics-ai/observatory,csv,2023
+157,UNESCO Global AI Ethics and Governance Observatory,UNESCO RAM,https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/transformacaodigital/arquivosinteligenciaartificial/ebia-portaria_mcti_4-979_2021_anexo1.pdf,csv,2024
+158,UNESCO Global AI Ethics and Governance Observatory,UNESCO RAM,https://www.oecd-ilibrary.org/docserver/f97beae7-en.pdf?expires=1698060764&id=id&accname=guest&checksum=955592C4F44AF137DCCC3DA4825BC187,csv,2023
+159,UNESCO Global AI Ethics and Governance Observatory,UNESCO RAM,https://www.unesco.org/en/ethics-ai/observatory,csv,2024
+160,UNESCO Global AI Ethics and Governance Observatory,UNESCO RAM,https://ai-innovation.id/images/gallery/ebook/stranas-ka.pdf,csv,2024
+161,UNESCO Global AI Ethics and Governance Observatory,UNESCO RAM,https://laws.gov.ag/wp-content/uploads/2019/02/a2013-10.pdf,csv,2024
+162,WIPO (World Intellectual Property Organisation),WIPO - AI Patent Landscapes,wipo_process_patent_data.py,csv,2026
+163,World Bank - GovTech Maturity Index,World Bank GovTech Maturity Index (GTMI),wbg_govtech_panel_aggregator.py,csv,2026

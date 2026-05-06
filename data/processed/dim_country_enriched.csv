@@ -1,0 +1,228 @@
+CountryKey,Country,ISO3,Region,IsLatAm,IsPeru
+1,Afghanistan,AFG,Other Regions,False,False
+2,Albania,ALB,Other Regions,False,False
+3,Algeria,DZA,Other Regions,False,False
+4,Andorra,AND,Other Regions,False,False
+5,Angola,AGO,Other Regions,False,False
+6,Anguilla,AIA,Other Regions,False,False
+7,Antigua and Barbuda,ATG,Other Regions,False,False
+8,Argentina,ARG,Latin America & Caribbean,True,False
+9,Armenia,ARM,Other Regions,False,False
+10,Australia,AUS,Other Regions,False,False
+11,Austria,AUT,Other Regions,False,False
+12,Azerbaijan,AZE,Other Regions,False,False
+13,Bahamas,BHS,Latin America & Caribbean,True,False
+14,Bahrain,BHR,Other Regions,False,False
+15,Bangladesh,BGD,Other Regions,False,False
+16,Barbados,BRB,Latin America & Caribbean,True,False
+17,Belarus,BLR,Other Regions,False,False
+18,Belgium,BEL,Other Regions,False,False
+19,Belize,BLZ,Latin America & Caribbean,True,False
+20,Benin,BEN,Other Regions,False,False
+21,Bermuda,BMU,Other Regions,False,False
+22,Bhutan,BTN,Other Regions,False,False
+23,Bolivia,BOL,Latin America & Caribbean,True,False
+24,Bosnia And Herzegovina,BIH,Other Regions,False,False
+25,Botswana,BWA,Other Regions,False,False
+26,Brazil,BRA,Latin America & Caribbean,True,False
+27,British Virgin Islands,VGB,Other Regions,False,False
+28,Brunei Darussalam,BRN,Other Regions,False,False
+29,Bulgaria,BGR,Other Regions,False,False
+30,Burkina Faso,BFA,Other Regions,False,False
+31,Burundi,BDI,Other Regions,False,False
+32,Cabo Verde,CPV,Other Regions,False,False
+33,Cambodia,KHM,Other Regions,False,False
+34,Cameroon,CMR,Other Regions,False,False
+35,Canada,CAN,Other Regions,False,False
+36,Cayman Islands,CYM,Other Regions,False,False
+37,Central African Republic,CAF,Other Regions,False,False
+38,Chad,TCD,Other Regions,False,False
+39,Chile,CHL,Latin America & Caribbean,True,False
+40,China,CHN,Other Regions,False,False
+41,Christmas Island,CXR,Other Regions,False,False
+42,Cocos (Keeling) Islands,CCK,Other Regions,False,False
+43,Colombia,COL,Latin America & Caribbean,True,False
+44,Comoros,COM,Other Regions,False,False
+45,Congo Republic,COG,Other Regions,False,False
+46,Costa Rica,CRI,Latin America & Caribbean,True,False
+47,Cote D'Ivoire,CIV,Other Regions,False,False
+48,Croatia,HRV,Other Regions,False,False
+49,Cuba,CUB,Latin America & Caribbean,True,False
+50,Curacao,CUW,Other Regions,False,False
+51,Cyprus,CYP,Other Regions,False,False
+52,Czechia,CZE,Other Regions,False,False
+53,Denmark,DNK,Other Regions,False,False
+54,Djibouti,DJI,Other Regions,False,False
+55,Dominica,DMA,Other Regions,False,False
+56,Dominican Republic,DOM,Latin America & Caribbean,True,False
+57,Dr Congo,COD,Other Regions,False,False
+58,Ecuador,ECU,Latin America & Caribbean,True,False
+59,Egypt,EGY,Other Regions,False,False
+60,El Salvador,SLV,Latin America & Caribbean,True,False
+61,Equatorial Guinea,GNQ,Other Regions,False,False
+62,Eritrea,ERI,Other Regions,False,False
+63,Estonia,EST,Other Regions,False,False
+64,Eswatini,SWZ,Other Regions,False,False
+65,Ethiopia,ETH,Other Regions,False,False
+66,Faroe Islands,FRO,Other Regions,False,False
+67,Fiji,FJI,Other Regions,False,False
+68,Finland,FIN,Other Regions,False,False
+69,France,FRA,Other Regions,False,False
+70,French Guiana,GUF,Other Regions,False,False
+71,French Polynesia,PYF,Other Regions,False,False
+72,French Southern Territories,ATF,Other Regions,False,False
+73,Gabon,GAB,Other Regions,False,False
+74,Gambia,GMB,Other Regions,False,False
+75,Georgia,GEO,Other Regions,False,False
+76,Germany,DEU,Other Regions,False,False
+77,Ghana,GHA,Other Regions,False,False
+78,Gibraltar,GIB,Other Regions,False,False
+79,Greece,GRC,Other Regions,False,False
+80,Greenland,GRL,Other Regions,False,False
+81,Grenada,GRD,Other Regions,False,False
+82,Guadeloupe,GLP,Other Regions,False,False
+83,Guam,GUM,Other Regions,False,False
+84,Guatemala,GTM,Latin America & Caribbean,True,False
+85,Guinea,GIN,Other Regions,False,False
+86,Guinea-Bissau,GNB,Other Regions,False,False
+87,Guyana,GUY,Latin America & Caribbean,True,False
+88,Haiti,HTI,Latin America & Caribbean,True,False
+89,Honduras,HND,Latin America & Caribbean,True,False
+90,Hong Kong,HKG,Other Regions,False,False
+91,Hungary,HUN,Other Regions,False,False
+92,Iceland,ISL,Other Regions,False,False
+93,India,IND,Other Regions,False,False
+94,Indonesia,IDN,Other Regions,False,False
+95,Iran,IRN,Other Regions,False,False
+96,Iraq,IRQ,Other Regions,False,False
+97,Ireland,IRL,Other Regions,False,False
+98,Isle Of Man,IMN,Other Regions,False,False
+99,Israel,ISR,Other Regions,False,False
+100,Italy,ITA,Other Regions,False,False
+101,Jamaica,JAM,Latin America & Caribbean,True,False
+102,Japan,JPN,Other Regions,False,False
+103,Jersey,JEY,Other Regions,False,False
+104,Jordan,JOR,Other Regions,False,False
+105,Kazakhstan,KAZ,Other Regions,False,False
+106,Kenya,KEN,Other Regions,False,False
+107,Kiribati,KIR,Other Regions,False,False
+108,Kosovo,KSV,Other Regions,False,False
+109,Kuwait,KWT,Other Regions,False,False
+110,Kyrgyzstan,KGZ,Other Regions,False,False
+111,Laos,LAO,Other Regions,False,False
+112,Latvia,LVA,Other Regions,False,False
+113,Lebanon,LBN,Other Regions,False,False
+114,Lesotho,LSO,Other Regions,False,False
+115,Liberia,LBR,Other Regions,False,False
+116,Libya,LBY,Other Regions,False,False
+117,Liechtenstein,LIE,Other Regions,False,False
+118,Lithuania,LTU,Other Regions,False,False
+119,Luxembourg,LUX,Other Regions,False,False
+120,Macau,MAC,Other Regions,False,False
+121,Madagascar,MDG,Other Regions,False,False
+122,Malawi,MWI,Other Regions,False,False
+123,Malaysia,MYS,Other Regions,False,False
+124,Maldives,MDV,Other Regions,False,False
+125,Mali,MLI,Other Regions,False,False
+126,Malta,MLT,Other Regions,False,False
+127,Marshall Islands,MHL,Other Regions,False,False
+128,Martinique,MTQ,Other Regions,False,False
+129,Mauritania,MRT,Other Regions,False,False
+130,Mauritius,MUS,Other Regions,False,False
+131,Mexico,MEX,Latin America & Caribbean,True,False
+132,Micronesia,FSM,Other Regions,False,False
+133,Moldova,MDA,Other Regions,False,False
+134,Monaco,MCO,Other Regions,False,False
+135,Mongolia,MNG,Other Regions,False,False
+136,Montenegro,MNE,Other Regions,False,False
+137,Montserrat,MSR,Other Regions,False,False
+138,Morocco,MAR,Other Regions,False,False
+139,Mozambique,MOZ,Other Regions,False,False
+140,Myanmar,MMR,Other Regions,False,False
+141,Namibia,NAM,Other Regions,False,False
+142,Nauru,NRU,Other Regions,False,False
+143,Nepal,NPL,Other Regions,False,False
+144,Netherlands,NLD,Other Regions,False,False
+145,New Caledonia,NCL,Other Regions,False,False
+146,New Zealand,NZL,Other Regions,False,False
+147,Nicaragua,NIC,Latin America & Caribbean,True,False
+148,Niger,NER,Other Regions,False,False
+149,Nigeria,NGA,Other Regions,False,False
+150,North Korea,PRK,Other Regions,False,False
+151,North Macedonia,MKD,Other Regions,False,False
+152,Northern Mariana Islands,MNP,Other Regions,False,False
+153,Norway,NOR,Other Regions,False,False
+154,Oman,OMN,Other Regions,False,False
+155,Pakistan,PAK,Other Regions,False,False
+156,Palau,PLW,Other Regions,False,False
+157,Palestine,PSE,Other Regions,False,False
+158,Panama,PAN,Latin America & Caribbean,True,False
+159,Papua New Guinea,PNG,Other Regions,False,False
+160,Paraguay,PRY,Latin America & Caribbean,True,False
+161,Peru,PER,Latin America & Caribbean,True,True
+162,Philippines,PHL,Other Regions,False,False
+163,Pitcairn,PCN,Other Regions,False,False
+164,Poland,POL,Other Regions,False,False
+165,Portugal,PRT,Other Regions,False,False
+166,Puerto Rico,PRI,Other Regions,False,False
+167,Qatar,QAT,Other Regions,False,False
+168,Reunion,REU,Other Regions,False,False
+169,Romania,ROU,Other Regions,False,False
+170,Russia,RUS,Other Regions,False,False
+171,Rwanda,RWA,Other Regions,False,False
+172,Samoa,WSM,Other Regions,False,False
+173,San Marino,SMR,Other Regions,False,False
+174,Saudi Arabia,SAU,Other Regions,False,False
+175,Senegal,SEN,Other Regions,False,False
+176,Serbia,SRB,Other Regions,False,False
+177,Seychelles,SYC,Other Regions,False,False
+178,Sierra Leone,SLE,Other Regions,False,False
+179,Singapore,SGP,Other Regions,False,False
+180,Slovakia,SVK,Other Regions,False,False
+181,Slovenia,SVN,Other Regions,False,False
+182,Solomon Islands,SLB,Other Regions,False,False
+183,Somalia,SOM,Other Regions,False,False
+184,South Africa,ZAF,Other Regions,False,False
+185,South Georgia and South Sandwich Is.,SGS,Other Regions,False,False
+186,South Korea,KOR,Other Regions,False,False
+187,South Sudan,SSD,Other Regions,False,False
+188,Spain,ESP,Other Regions,False,False
+189,Sri Lanka,LKA,Other Regions,False,False
+190,St. Kitts And Nevis,KNA,Other Regions,False,False
+191,St. Lucia,LCA,Other Regions,False,False
+192,St. Vincent And The Grenadines,VCT,Other Regions,False,False
+193,Sudan,SDN,Other Regions,False,False
+194,Suriname,SUR,Latin America & Caribbean,True,False
+195,Sweden,SWE,Other Regions,False,False
+196,Switzerland,CHE,Other Regions,False,False
+197,Syria,SYR,Other Regions,False,False
+198,São Tomé and Principe,STP,Other Regions,False,False
+199,Taiwan,TWN,Other Regions,False,False
+200,Tajikistan,TJK,Other Regions,False,False
+201,Tanzania,TZA,Other Regions,False,False
+202,Thailand,THA,Other Regions,False,False
+203,Timor-Leste,TLS,Other Regions,False,False
+204,Togo,TGO,Other Regions,False,False
+205,Tonga,TON,Other Regions,False,False
+206,Trinidad And Tobago,TTO,Latin America & Caribbean,True,False
+207,Tunisia,TUN,Other Regions,False,False
+208,Turkey,TUR,Other Regions,False,False
+209,Turkmenistan,TKM,Other Regions,False,False
+210,Turks and Caicos Islands,TCA,Other Regions,False,False
+211,Tuvalu,TUV,Other Regions,False,False
+212,Uganda,UGA,Other Regions,False,False
+213,Ukraine,UKR,Other Regions,False,False
+214,United Arab Emirates,ARE,Other Regions,False,False
+215,United Kingdom,GBR,Other Regions,False,False
+216,United States,USA,Other Regions,False,False
+217,United States Minor Outlying Islands,UMI,Other Regions,False,False
+218,United States Virgin Islands,VIR,Other Regions,False,False
+219,Uruguay,URY,Latin America & Caribbean,True,False
+220,Uzbekistan,UZB,Other Regions,False,False
+221,Vanuatu,VUT,Other Regions,False,False
+222,Vatican,VAT,Other Regions,False,False
+223,Venezuela,VEN,Latin America & Caribbean,True,False
+224,Vietnam,VNM,Other Regions,False,False
+225,Yemen,YEM,Other Regions,False,False
+226,Zambia,ZMB,Other Regions,False,False
+227,Zimbabwe,ZWE,Other Regions,False,False
